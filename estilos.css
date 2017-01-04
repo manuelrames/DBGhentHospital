@@ -1,0 +1,71 @@
+<!DOCTYPE css>
+html {
+	padding-left: 0;
+	margin: 0;
+}
+header {
+	font size: 35px;
+	font-family: "Papyrus";
+	font-color:"#dc143c";
+	font-weight: bold;
+	background-color: #B5D2F9;
+	border: 3px solid #0B072A;
+	padding: 1%;
+	margin-bottom: 1px;
+	color: black;
+}
+header h1 {
+	font size: 35px;
+	font-family: "Papyrus";
+	font-color:"#dc143c";
+}
+body {
+	padding-left: 0;
+	margin: 0;
+	font: 16px Georgia, serif;
+}
+nav {
+	background-color: #A1F3CD;
+	border: 3px solid #0B072A;
+	padding: 1%;
+	margin-bottom: 1px;
+	color: black;
+}
+a {
+	font-size:120%;
+	font-family:inherit;
+	font-style:italic;
+	font-weight:normal;
+	color:#000000;
+	margin: 0px 10px 0px 0px;
+}
+section {
+	background-color: #A1F3CD;
+	border: 3px solid #0B072A;
+	font-size: 18px;
+	padding: 1%;
+	margin-bottom: 1px;
+	color: black;
+}
+section h1 {
+	font size: 35px;
+	font-family: "Papyrus";
+	font-color:"#dc143c";
+}
+section h2 {
+	font size: 20px;
+	font-family: "Papyrus";
+	font-color:"#dc143c";
+}
+form {
+	border: 2px #A1F3CD;
+	font-size: 30px;
+	font-family: "Pristina";
+	padding-left: 10px;
+	background-color:transparent;
+}
+footer {
+	background-color: #B5D2F9;
+	text-align: center;
+	font-variant: small-caps;
+}
